@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.accenture.features.search.IniciarSesion
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 83.684 sec - in com.accenture.features.search.IniciarSesion
